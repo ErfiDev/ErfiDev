@@ -79,7 +79,7 @@
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ErfiDev&theme=radical" alt="erfan :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ErfiDev" alt="erfan :: Profile Stats" /></p>
 
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=ErfiDev&theme=monokai&no-frame=true&margin-w=2&title=Stars,Commit,Issue,Follower,Repo,PullRequest&row=2&column=3" 
