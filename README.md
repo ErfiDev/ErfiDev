@@ -40,14 +40,6 @@
 
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="30" width="30">
 
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressJS" height="30" width="30">
-
-  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" height="30" width="30">
-
-  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" height="30" width="30">
-
-  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="Jquery" height="30" width="30">
-
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" height="30" width="30">
 
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mySql" height="30" width="30">
@@ -57,14 +49,6 @@
   <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Golang" height="30" width="30">
 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30" width="30">
-
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="30" width="30">
-
-  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" height="30" width="30">
-
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vsCode" height="30" width="30">
-
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" height="30" width="30">
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
