@@ -62,6 +62,3 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfiDev&langs_count=10&theme=flat&layout=compact" alt="erfan :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ErfiDev" alt="erfan :: Profile Stats" /></p>
